@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="golden.mx" group-title="Películas",Golden
+https://live.telelatinohd.com/golden/master.m3u8
+
+#EXTINF:-1 tvg-id="goldenedge.mx" group-title="Películas",Golden Edge
+https://live.telelatinohd.com/goldenedge/master.m3u8
+
+#EXTINF:-1 tvg-id="cinelatino.mx" group-title="Películas",Cine Latino
+https://dai.google.com/linear/hls/event/0tqf0Yp1Tj6rjYV0vQ/master.m3u8
+
+#EXTINF:-1 tvg-id="depelicula.mx" group-title="Películas",De Película
+https://live.telelatinohd.com/depelicula/master.m3u8
+
+#EXTINF:-1 tvg-id="depeliculaclasico.mx" group-title="Películas",De Película Clásico
+https://live.telelatinohd.com/depeliculaclasico/master.m3u8
+
+#EXTINF:-1 tvg-id="studiouniversal.mx" group-title="Películas",Studio Universal
+https://live.telelatinohd.com/studiouniversal/master.m3u8
+
+#EXTINF:-1 tvg-id="universalchannel.mx" group-title="Películas",Universal Channel
+https://live.telelatinohd.com/universalchannel/master.m3u8
+
+#EXTINF:-1 tvg-id="tnt.mx" group-title="Películas",TNT
+https://live.telelatinohd.com/tnt/master.m3u8
+
+#EXTINF:-1 tvg-id="tntseries.mx" group-title="Películas",TNT Series
+https://live.telelatinohd.com/tntseries/master.m3u8
+
+#EXTINF:-1 tvg-id="space.mx" group-title="Películas",Space
+https://live.telelatinohd.com/space/master.m3u8
+
+#EXTINF:-1 tvg-id="amc.mx" group-title="Películas",AMC
+https://live.telelatinohd.com/amc/master.m3u8
+
+#EXTINF:-1 tvg-id="fxm.mx" group-title="Películas",FXM
+https://live.telelatinohd.com/fxm/master.m3u8
+
+#EXTINF:-1 tvg-id="cinemax.mx" group-title="Películas",Cinemax
+https://live.telelatinohd.com/cinemax/master.m3u8
+
+#EXTINF:-1 tvg-id="paramount.mx" group-title="Películas",Paramount Channel
+https://live.telelatinohd.com/paramount/master.m3u8
+
+#EXTINF:-1 tvg-id="sonymovies.mx" group-title="Películas",Sony Movies
+https://live.telelatinohd.com/sonymovies/master.m3u8
