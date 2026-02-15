@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Azteca Uno" tvg-id="azteca_uno" group-title="Mexico",Azteca Uno
+http://link-to-azteca-uno.com
+#EXTINF:-1 tvg-name="Azteca 7" tvg-id="azteca7" group-title="Mexico",Azteca 7
+http://link-to-azteca-7.com
+#EXTINF:-1 tvg-name="ADN 40" tvg-id="adn40" group-title="Mexico",ADN 40
+http://link-to-adn-40.com
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-id="las-estrellas" group-title="Mexico",Las Estrellas
+http://link-to-las-estrellas.com
+#EXTINF:-1 tvg-name="Multimedios" tvg-id="multimedios" group-title="Mexico",Multimedios
+http://link-to-multimedios.com
+#EXTINF:-1 tvg-name="Milenio Television" tvg-id="milenio-television" group-title="Mexico",Milenio Television
+http://link-to-milenio-television.com
