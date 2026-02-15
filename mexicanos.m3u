@@ -1,5 +1,22 @@
-# New Streaming Links for Mexican Channels
+#EXTM3U
 
-http://newlink1.com
-http://newlink2.com
-http://newlink3.com
+#EXTINF:-1 tvg-id="lasestrellas.mx" group-title="Mexicanos",Las Estrellas
+https://channel01.akamaized.net/hls/live/2093200/lasestrellas/master.m3u8
+
+#EXTINF:-1 tvg-id="canal5.mx" group-title="Mexicanos",Canal 5
+https://channel02.akamaized.net/hls/live/2093201/canal5/master.m3u8
+
+#EXTINF:-1 tvg-id="aztecauno.mx" group-title="Mexicanos",Azteca Uno
+https://mdstrm.com/live-stream-playlist/5d1a1be7f2f2b977dc3e8e4a.m3u8
+
+#EXTINF:-1 tvg-id="azteca7.mx" group-title="Mexicanos",Azteca 7
+https://mdstrm.com/live-stream-playlist/5d1a1c0df2f2b977dc3e8e4b.m3u8
+
+#EXTINF:-1 tvg-id="adn40.mx" group-title="Mexicanos",ADN40
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c2d5e7e1a.m3u8
+
+#EXTINF:-1 tvg-id="imagen.mx" group-title="Mexicanos",Imagen TV
+https://dai.google.com/linear/hls/event/imagen/master.m3u8
+
+#EXTINF:-1 tvg-id="multimedios.mx" group-title="Mexicanos",Multimedios
+https://mdstrm.com/live-stream-playlist/5d1a1be7f2f2b977dc3e8e4a.m3u8
